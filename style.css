@@ -8,6 +8,10 @@
 }
 body {
   padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
 }
 .card {
   width: 700px;
